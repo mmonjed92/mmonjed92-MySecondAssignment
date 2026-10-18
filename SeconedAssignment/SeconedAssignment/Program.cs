@@ -6,8 +6,7 @@ using SeconedAssignment;
 
 
 
-    Employee full = new FullTimeEmployee(1, "ahmad", 1200m);
-    Employee part = new PartTimeEmployee(2, "omar", 80m, 5m);
+   
 
 
 
@@ -23,7 +22,7 @@ using SeconedAssignment;
 
         Console.WriteLine("Enter Monthly Salary:");
         decimal salary = Convert.ToDecimal(Console.ReadLine());
-        full = new FullTimeEmployee(id, name, salary);
+    Employee full = new FullTimeEmployee(id, name, salary);
         full.DisplayInfo();
         full.work();
     }
@@ -35,7 +34,7 @@ using SeconedAssignment;
 
         Console.WriteLine("Enter Hourly Rate:");
         decimal rate = Convert.ToDecimal(Console.ReadLine());
-        part = new PartTimeEmployee(id, name, hours, rate);
+    Employee part = new PartTimeEmployee(id, name, hours, rate);
         part.DisplayInfo();
         part.work();
 
