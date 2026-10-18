@@ -1,0 +1,15 @@
+D:\backend\SeconedAssignment\SeconedAssignment\bin\Debug\net10.0\SeconedAssignment.exe
+D:\backend\SeconedAssignment\SeconedAssignment\bin\Debug\net10.0\SeconedAssignment.deps.json
+D:\backend\SeconedAssignment\SeconedAssignment\bin\Debug\net10.0\SeconedAssignment.runtimeconfig.json
+D:\backend\SeconedAssignment\SeconedAssignment\bin\Debug\net10.0\SeconedAssignment.dll
+D:\backend\SeconedAssignment\SeconedAssignment\bin\Debug\net10.0\SeconedAssignment.pdb
+D:\backend\SeconedAssignment\SeconedAssignment\obj\Debug\net10.0\SeconedAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\backend\SeconedAssignment\SeconedAssignment\obj\Debug\net10.0\SeconedAssignment.AssemblyInfoInputs.cache
+D:\backend\SeconedAssignment\SeconedAssignment\obj\Debug\net10.0\SeconedAssignment.AssemblyInfo.cs
+D:\backend\SeconedAssignment\SeconedAssignment\obj\Debug\net10.0\SeconedAssignment.csproj.CoreCompileInputs.cache
+D:\backend\SeconedAssignment\SeconedAssignment\obj\Debug\net10.0\SeconedAssignment.dll
+D:\backend\SeconedAssignment\SeconedAssignment\obj\Debug\net10.0\refint\SeconedAssignment.dll
+D:\backend\SeconedAssignment\SeconedAssignment\obj\Debug\net10.0\SeconedAssignment.pdb
+D:\backend\SeconedAssignment\SeconedAssignment\obj\Debug\net10.0\SeconedAssignment.genruntimeconfig.cache
+D:\backend\SeconedAssignment\SeconedAssignment\obj\Debug\net10.0\ref\SeconedAssignment.dll
+D:\backend\SeconedAssignment\SeconedAssignment\obj\Debug\net10.0\SeconedA.FFA56458.Up2Date
